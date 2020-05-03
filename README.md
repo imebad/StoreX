@@ -1,0 +1,2 @@
+# StoreX
+E-commerce project
